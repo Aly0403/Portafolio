@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NoBiNTNABtV3GUH7soE3ePtmVaWTWn9f2j/zf8V36so=",
+  "Hash": "LmoN+maXFTUnAQ06sjcNwH7j8p/N6tO8NHP75zdEDz0=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Alyson Arguedas Mena\\source\\repos\\Portafolio\\Portafolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Portafolio.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Alyson Arguedas Mena\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\custom.css",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alyson Arguedas Mena\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "css/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
       "Identity": "C:\\Users\\Alyson Arguedas Mena\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\site.css",
