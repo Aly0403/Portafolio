@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FJDtNvvGli6km8Mm/bps6twD0QEo3p0/qvLic+0DRpo=",
+  "Hash": "NoBiNTNABtV3GUH7soE3ePtmVaWTWn9f2j/zf8V36so=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Alyson Arguedas Mena\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\Imagenes\\Foto.jpg",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Alyson Arguedas Mena\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "Imagenes/Foto.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\Foto.jpg"
     },
     {
       "Identity": "C:\\Users\\Alyson Arguedas Mena\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",
