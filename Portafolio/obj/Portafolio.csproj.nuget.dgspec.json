@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alyson\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj": {}
+    "C:\\Users\\Alyson\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alyson\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj": {
+    "C:\\Users\\Alyson\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alyson\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+        "projectUniqueName": "C:\\Users\\Alyson\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
         "projectName": "Portafolio",
-        "projectPath": "C:\\Users\\Alyson\\Source\\Repos\\Portafolio\\Portafolio\\Portafolio.csproj",
+        "projectPath": "C:\\Users\\Alyson\\source\\repos\\Portafolio\\Portafolio\\Portafolio.csproj",
         "packagesPath": "C:\\Users\\Alyson\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Alyson\\Source\\Repos\\Portafolio\\Portafolio\\obj\\",
         "projectStyle": "PackageReference",
